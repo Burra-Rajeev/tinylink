@@ -1,0 +1,3 @@
+{
+  "/api/links/[code]": "pages/api/links/[code].js"
+}
